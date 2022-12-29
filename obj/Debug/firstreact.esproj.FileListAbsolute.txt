@@ -1,0 +1,2 @@
+C:\Users\nomin\OneDrive\Desktop\React\FirstReact\FirstReact\obj\Debug\firstreact.esproj.SuggestedBindingRedirects.cache
+C:\Users\nomin\OneDrive\Desktop\React\FirstReact\FirstReact\obj\Debug\firstreact.esproj.CoreCompileInputs.cache
